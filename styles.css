@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+
+    <style type="text/css">
+	body {
+	margin: Opx;
+	padding: Opx;
+	border:	Opx;
+	left: Opx;
+	top: Opx;
+	color: black;
+	background-color: white;
+	
+	}
+    
+	p, li {
+		font: 1em Arial, Helvetica, sans-serif;
+		font-size: 20px;
+		background-image: URL("images/LearnMore.jpg");
+		background-color: transparent;
+	}
+	.jazzy {
+		font-family: Georgia;
+		background-color: white;
+	}
+	h1 {
+		font: 2em Arial, Helvetica, sans-serif;
+		font-size: 25px;
+		color: gray;
+		font-style: oblique
+	}
+	h2 {
+		font: 1.5em Arial, Helvetica, sans-serif;
+		font-size: 20px;
+		color: #999FFF;
+		font-style: oblique;
+	}
+	h3 {
+		font: 1.25em Arial, Helvetica, sans-serif;
+	}
+	.footer {
+		font-size: .75em;
+		clear: both;
+		width: 100%
+		text-align: center;
+	}
+	main {
+		width: 800px;
+		top: Opx;
+		position: absolute;
+		left: 250px;
+	}
+	
+
+</html>
